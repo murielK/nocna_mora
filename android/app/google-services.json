@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474282230785",
+    "firebase_url": "https://nocna-mora-341e7.firebaseio.com",
+    "project_id": "nocna-mora-341e7",
+    "storage_bucket": "nocna-mora-341e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474282230785:android:1a89c28ec8c551538dec00",
+        "android_client_info": {
+          "package_name": "hr.murielkamgang.flutter.nocnamora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474282230785-5t5bqnfequu1546tonlr97mr4e24d1v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TNV9v6qSL_a_TKzAz4IgVsYyZj13yVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474282230785-5t5bqnfequu1546tonlr97mr4e24d1v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474282230785-s4b4evnmgb7843v0jhik0t607ij1lmlq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hr.murielkamgang.flutter.nocnamora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
